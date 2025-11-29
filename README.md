@@ -501,17 +501,3 @@ I actively contribute to open-source projects and maintain several repositories.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&text=System%20Online%20%7C%20Ready%20to%20Innovate&fontSize=20&animation=fadeIn" width="100%"/>
 
 </div>
-
----
-
-
-<br/>
-
-<img src="https://img.shields.io/github/followers/Pragadees15?label=Follow&style=social" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/Pragadees15?label=Stars&style=social" alt="GitHub Stars" />
-
-<br/>
-
-![Visitor Count](https://profile-counter.glitch.me/Pragadees15/count.svg)
-
-</div>
