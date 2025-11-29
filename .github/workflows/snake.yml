@@ -25,7 +25,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
       
-      - name: Push to output branch
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         if: always()
         with:
@@ -36,5 +36,4 @@ jobs:
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
           commit_message: 'Generate contribution snake'
-          branch: output
-
+          publish_branch: output
