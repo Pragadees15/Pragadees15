@@ -1,253 +1,517 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:051937,100:0ea5e9&section=header&text=Pragadeeswaran%20K&fontSize=60&fontColor=F8FAFC&animation=fadeIn&desc=Edge-first%20AI%20%7C%20Computer%20Vision%20Engineer&descAlign=50&descAlignY=65" alt="Gradient hero" />
-  <h3>Designing telemetry-aware AI that runs on both edge silicon and GPU clouds.</h3>
-  <p>
-    <a href="mailto:pragadees1323@gmail.com"><img src="https://img.shields.io/badge/Email-pragadees1323%40gmail.com-ef4444?style=for-the-badge&logo=gmail" /></a>
-    <a href="https://pragadeesportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-0ea5e9?style=for-the-badge&logo=vercel" /></a>
-    <a href="https://linkedin.com/in/Pragadees15"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin" /></a>
-    <a href="https://github.com/Pragadees15"><img src="https://img.shields.io/badge/GitHub-@Pragadees15-18181b?style=for-the-badge&logo=github" /></a>
-  </p>
-  <p>
-    <a href="#mission-control"><img src="https://img.shields.io/badge/-Mission%20Control-1f2937?style=flat-square" /></a>
-    <a href="#launchpad-highlights"><img src="https://img.shields.io/badge/-Launchpad%20Highlights-0ea5e9?style=flat-square" /></a>
-    <a href="#currently-shipping"><img src="https://img.shields.io/badge/-Currently%20Shipping-7c3aed?style=flat-square" /></a>
-    <a href="#signal-cards"><img src="https://img.shields.io/badge/-Signal%20Cards-22d3ee?style=flat-square" /></a>
-    <a href="#field-notes-timeline"><img src="https://img.shields.io/badge/-Field%20Notes-f97316?style=flat-square" /></a>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Edge%20deployments-12%2B-0ea5e9?style=flat-square&logo=arduino" />
-    <img src="https://img.shields.io/badge/Realtime%20dashboards-8-7c3aed?style=flat-square&logo=plotly" />
-    <img src="https://img.shields.io/badge/Community%20repos-27-14b8a6?style=flat-square&logo=github" />
-  </p>
+
+  <!-- Dynamic Header with Glitch/Cyberpunk vibe -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Pragadeeswaran%20K&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Architect%20%7C%20Deep%20Learning%20%7C%20Full%20Stack&descAlignY=55&descAlign=50&stroke=000000&strokeWidth=0" alt="Header" width="100%"/>
+
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=init_system(AI_Engineer);loading_modules(Computer_Vision,+RL);deploying_to(Production);>_Ready_to_innovate..." alt="Typing SVG" />
+  </a>
+
+  <!-- Visitor Counter & Status -->
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=Pragadees15&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Status-Available%20for%20Collaboration-success?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/Location-India-FF6B6B?style=for-the-badge&logo=location&logoColor=white" alt="Location" />
+  </div>
+
 </div>
 
----
+<br />
 
-## Command Palette
-| Mode | What it unlocks | Recent win |
-| --- | --- | --- |
-| `deploy --edge` | OTA-safe firmware, ESP32 deep sleep choreography, telemetry hooks | Power-optimized Edge Systems Studio |
-| `serve --cloud` | RAPIDS/TensorRT GPU APIs with MLflow traces | Fake News Detector 4.2× faster inference |
-| `pair --oss` | Public repos with docs, dashboards, contributor templates | Seat Finder routing + Seat Finder APK releases |
+<!-- Contribution Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pragadees15/Pragadees15/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+</div>
 
----
+<br />
 
-## Mission Control
-- **Edge + Cloud Symmetry** — build once, benchmark twice. Models compile for Jetson, ESP32, or GPU-backed APIs with the same observability contracts.
-- **Evidence-first Storytelling** — every repo carries notebooks, dashboards, or GIFs that replay the breakthroughs.
-- **OSS Collaboration** — Seat Finder routing/state machines, Raspberry Pi automation docs, and open ML notebooks keep me pairing with the community.
-
-### Systems Blueprint
+<!-- ASCII Art Separator -->
+<div align="center">
+  
 ```
-┌──────────────┬───────────────────────────┬──────────────────────┐
-│ Layer        │ Responsibilities          │ Tooling              │
-├──────────────┼───────────────────────────┼──────────────────────┤
-│ Acquisition  │ Scrapers, OCR, streaming  │ Playwright, OCR, Pi  │
-│ Intelligence │ Training, distillation    │ PyTorch, RAPIDS      │
-│ Experience   │ Dashboards, mobile UX     │ React Native, Flask  │
-│ Ops          │ Telemetry, CI/CD, OTA     │ GH Actions, ESP-IDF  │
-└──────────────┴───────────────────────────┴──────────────────────┘
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║         🚀 Welcome to My GitHub Profile 🚀               ║
+║                                                           ║
+║     Turning coffee ☕ into code 💻 since forever          ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
----
+</div>
 
-## Radar Ping (Live Metrics)
+<br />
+
+<!-- Quick Stats & Info -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pragadees15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=0ea5e9&title_color=38bdf8" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pragadees15&theme=tokyonight&hide_border=true&ring=0ea5e9&fire=7c3aed" alt="Streak graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragadees15&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=f8fafc&hide_border=true" alt="Contribution activity graph" />
+
+### ⚡ Quick Stats
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Repositories-Multiple-blue?style=for-the-badge&logo=github&logoColor=white" />
+      <br/>
+      <small>Open Source Projects</small>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Languages-8+-green?style=for-the-badge&logo=code&logoColor=white" />
+      <br/>
+      <small>Python, TS, JS, Java & more</small>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Focus-AI/ML-orange?style=for-the-badge&logo=brain&logoColor=white" />
+      <br/>
+      <small>Computer Vision & RL</small>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=check-circle&logoColor=white" />
+      <br/>
+      <small>Regular Contributions</small>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br />
+
+<!-- Main Content -->
+<div align="center">
+
+### 👨‍💻 About My Work
+
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Building+AI+Solutions+%7C+Contributing+to+OSS+%7C+Learning+Everyday)
+
+</div>
+
+```python
+class GitHubProfile:
+    def __init__(self):
+        self.username = "Pragadees15"
+        self.focus = ["AI/ML Projects", "Open Source", "Full-Stack Apps"]
+        self.current_work = "Building AI-powered applications & contributing to OSS"
+        self.status = "🚀 Actively coding"
+        self.passion = "Turning ideas into reality through code"
+        self.coffee_consumption = "∞ cups/day ☕"
+    
+    def tech_stack(self):
+        return {
+            "AI/ML": ["PyTorch", "TensorFlow", "RAPIDS", "OpenCV"],
+            "Web": ["React", "Next.js", "Flask", "FastAPI"],
+            "Languages": ["Python", "TypeScript", "JavaScript", "Java"],
+            "Cloud": ["AWS", "GCP", "Docker", "Kubernetes"]
+        }
+    
+    def contribute(self):
+        return "Always open to collaboration! 🤝"
+    
+    def quote(self):
+        return "Code is poetry written in logic"
+    
+    def current_mood(self):
+        return "😎 Building something awesome"
+
+profile = GitHubProfile()
+print(f"{profile.contribute()}\n{profile.quote()}\n{profile.current_mood()}")
+```
+
 </div>
 
 ---
 
-## Competitive Signals
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/pk7270?theme=dark&font=Space%20Grotesk&ext=heatmap&animation=true" alt="LeetCode stats" />
+  
+![Tech Stack](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=500&lines=🛠️+Tech+Stack+%7C+Tools+%26+Technologies)
+
 </div>
 
-| Platform | Highlights | Profile |
-| --- | --- | --- |
-| LeetCode | Daily streaks + heatmap showing consistency, mix of algorithm tags (graphs, DP, arrays). | [leetcode.com/u/pk7270](https://leetcode.com/u/pk7270/) |
-| HackerRank | Problem Solving, C, C++, Java, Python badge stack + verified Python (Basic) certification. | [hackerrank.com/profile/pk7270](https://www.hackerrank.com/profile/pk7270) |
-
----
-
-## Live Telemetry Board
-| Signal | Current Pulse |
-| --- | --- |
-| 🚀 **Deployments** | React Native builds (Acadion Mobile), Flask dashboards (EduSmartBot), GPU RAPIDS notebooks (Fake News Lab) |
-| ⚙️ **Latency Wins** | TensorRT + cuDF pipeline trims inference by **4.2×** vs baseline ensembles |
-| 🛡️ **Reliability Focus** | ESP32 OTA rehearsals, replay-buffer verified DQN agents, bias-audited health analytics |
-| 🤝 **Community Drops** | Seat Finder sharing exportable seat maps, Raspberry Pi Security Camera automation write-ups |
-
----
-
-## Launchpad Highlights
-<table>
-  <tr>
-    <td>
-      <h3>🏬 powerbi-superstore-analytics</h3>
-      <p>Dark-themed Power BI dashboard surfacing retail spikes, markdowns, and supply alerts with instant filters.</p>
-      <p><strong>Stack:</strong> Power BI · DAX · Data Gateway</p>
-      <p><a href="https://github.com/Pragadees15/powerbi-superstore-analytics">Repo →</a></p>
-    </td>
-    <td>
-      <h3>🛰️ Seat Finder</h3>
-      <p>Parallel scraper + clean UI that helps SRMIST students locate seat allocations, export to PNG/PDF, and share to WhatsApp.</p>
-      <p><strong>Stack:</strong> TypeScript · Next.js · Playwright workers</p>
-      <p><a href="https://github.com/Pragadees15/seat-finder">Repo →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🤖 EduSmartBot</h3>
-      <p>Flask-native study studio blending OCR, adaptive quizzes, Ollama tutoring, and timetable planning inside one control room.</p>
-      <p><strong>Stack:</strong> Python · Flask · OCR · LLM toolchain</p>
-      <p><a href="https://github.com/Pragadees15/EduSmartBot">Repo →</a></p>
-    </td>
-    <td>
-      <h3>⚡ Fake News Detector</h3>
-      <p>GPU-accelerated NLP workflow using RAPIDS cuDF/cuML with TensorRT to keep inference real-time while logging to MLflow.</p>
-      <p><strong>Stack:</strong> Python · RAPIDS · TensorRT · MLflow</p>
-      <p><a href="https://github.com/Pragadees15/fake-news-detector">Repo →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>📡 Raspberry Pi Security Camera</h3>
-      <p>Motion-activated CV system with email alerts, Flask dashboard, and tuned OpenCV pipelines for Raspberry Pi 4 deployments.</p>
-      <p><strong>Stack:</strong> Python · OpenCV · Flask · Pi hardware</p>
-      <p><a href="https://github.com/Pragadees15/raspberry-pi-security-camera">Repo →</a></p>
-    </td>
-    <td>
-      <h3>📱 Acadion Mobile</h3>
-      <p>Offline-first SRM Academia companion featuring attendance insights, secure storage, and privacy-aware logging.</p>
-      <p><strong>Stack:</strong> React Native · TypeScript · Expo · SecureStore</p>
-      <p><a href="https://github.com/Pragadees15/acadion-mobile">Repo →</a></p>
-    </td>
-  </tr>
-</table>
-
-> Bonus repos: Personal Portfolio, Seat Finder APK, Diabetes Health Indicators Lab, and more at the repository grid.
-
-### Orbital Projects
-- **Personal Portfolio** — handcrafted TypeScript site with 3D hero + Vercel edge deploys.  
-- **Seat Finder APK** — Flutter client mirroring Seat Finder web with offline persistence.  
-- **Self-driving-car** — Deep Q-Learning sim with Pytorch, live rollout cinema, GPU training loops.  
-- **Image Captioning** — BLIP-powered captions via Flask UI and drag & drop uploads.
-
-### Mission Briefs
-<details>
-  <summary><strong>Seat Finder Ops Log</strong></summary>
-  <ul>
-    <li>Parallel scraping pipeline with retry/backoff and data sanity checks.</li>
-    <li>UI supports emoji legends, PDF/PNG export, and WhatsApp sharing.</li>
-    <li>Automation docs + contributor issues keep OSS velocity high.</li>
-  </ul>
-</details>
-<details>
-  <summary><strong>EduSmartBot Diagnostics</strong></summary>
-  <ul>
-    <li>Ollama tutoring + OCR ingestion + adaptive quiz loops.</li>
-    <li>Flask blueprint pattern, caching layers, and telemetry hooks.</li>
-    <li>Integration tests verify timetable planning + research assistant flows.</li>
-  </ul>
-</details>
-<details>
-  <summary><strong>Raspberry Pi Security Camera Watchtower</strong></summary>
-  <ul>
-    <li>Motion zones tuned via OpenCV + email alert pipeline.</li>
-    <li>Flask dashboard renders live feed with action logs.</li>
-    <li>Deployment scripts target Pi 4 with GPU split allocation.</li>
-  </ul>
-</details>
-
----
-
-## Currently Shipping
-| Track | What’s cooking | Proof |
-| --- | --- | --- |
-| Edge Systems Studio | ESP32 deep-sleep choreography, OTA scripts, power diagnostics | Firmware charts + energy notebooks |
-| Campus R&D Guild | CV + RL ablations with dataset packaging and literature-backed baselines | Colab notebooks + W&B runs |
-| OSS Collabs | Seat Finder routing/state machines, Raspberry Pi automation docs | Open issues + contributor guides |
-
----
-
-## Stack I Reach For
-- **Languages / Frameworks**: Python, TypeScript, React/Next.js, React Native, Flask, Node/Express
-- **ML & Data**: PyTorch, TensorFlow, RAPIDS/cuDF, spaCy, Hydra, MLflow, Plotly Dash, Streamlit
-- **Ops & Infra**: Docker, ESP-IDF, GitHub Actions, Vercel, AWS, Oracle Cloud, custom telemetry scripts
-
----
-
-## Stack I Reach For
-- **Languages / Frameworks**: Python, TypeScript, React/Next.js, React Native, Flask, Node/Express
-- **ML & Data**: PyTorch, TensorFlow, RAPIDS/cuDF, spaCy, Hydra, MLflow, Plotly Dash, Streamlit
-- **Ops & Infra**: Docker, ESP-IDF, GitHub Actions, Vercel, AWS, Oracle Cloud, custom telemetry scripts
-
-### Instrumented Layers
-<table>
-  <tr>
-    <td><strong>Vision & Perception</strong><br/>OpenCV · MediaPipe · YOLO · BLIP</td>
-    <td><strong>Automation</strong><br/>Playwright · LangChain · FastAPI · Celery</td>
-    <td><strong>Observability</strong><br/>Weights & Biases · MLflow · custom Grafana exporters</td>
-  </tr>
-  <tr>
-    <td><strong>Edge Tooling</strong><br/>ESP-IDF · PlatformIO · Jetson SDK</td>
-    <td><strong>Data Ops</strong><br/>RAPIDS · Arrow · DuckDB · Power BI</td>
-    <td><strong>Collab</strong><br/>Notion labs · Figma flows · Hackathon-ready docs</td>
-  </tr>
-</table>
-
----
-
-## Credentials & Signals
-- Oracle Cloud Infrastructure 2024 Generative AI Professional · Cloud Foundations
-- AWS Academy: Machine Learning Foundations, Data Engineering, Cloud Foundations
-- NPTEL: Programming in Java, DBMS, Computer Architecture
-- Hackathons: CINTEL Digithon, Hackstreet 3.0, Webathon 2.0 (rapid AI/ML prototyping)
-- Programs: AICTE Eduskills, Google Android Developer, ALTAIR Data Science mentorship
-
----
-
-## Signal Cards
-<table>
-  <tr>
-    <td><strong>⚡ Latency hunts</strong><br/>TensorRT + cuDF trimming inference 4.2× vs ensemble baseline.</td>
-    <td><strong>🛰️ Edge sentry</strong><br/>12+ ESP32 / Jetson deployments monitored with OTA rehearsals.</td>
-    <td><strong>📊 Dashboards</strong><br/>Power BI + Streamlit decks for sales, telemetry, and health analytics.</td>
-  </tr>
-  <tr>
-    <td><strong>🤝 Community</strong><br/>Seat Finder, Raspberry Pi camera, and Hackathon-ready templates.</td>
-    <td><strong>🧪 Experiments</strong><br/>Hydra-configured sweeps logged to W&B & MLflow.</td>
-    <td><strong>📦 Shipping style</strong><br/>Docs + GIFs + datasets packaged for reviewers.</td>
-  </tr>
-</table>
-
----
-
-## Field Notes Timeline
-| Year | Milestone | Proof |
-| --- | --- | --- |
-| 2025 | Reached 25+ OSS repos spanning AI/ML, CV, analytics | GitHub activity graph above |
-| 2024 | Built Seat Finder platform (web + APK + automation docs) | `seat-finder`, `seat-finder-apk` |
-| 2023 | Raspberry Pi security automation playbooks published | `raspberry-pi-security-camera` |
-
-### Hackathon Dispatches
-- **CINTEL Digithon** — built rapid AI insights dashboard with telemetry toggles.
-- **Hackstreet 3.0** — shipped RL prototype with rollout visualizer in under 36h.
-- **Webathon 2.0** — delivered responsive data storytelling site with interactive charts.
-
-### Build Rituals
-- `npm run lint && pytest` before commits.  
-- Telemetry toggles + feature flags even for prototypes.  
-- Changelogs + retro threads ensure each repo shares learnings forward.
-
----
-
-## Let’s Co-build
-Have a dataset, edge device, or OSS issue that needs observability, benchmarks, or deployment polish? DM or open an issue—happy to co-design experiments, review PRs, or ship telemetry dashboards.
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0ea5e9&height=160&section=footer&text=Let%E2%80%99s%20build%20edge-aware%20AI%20pipelines&fontSize=26&fontColor=0f172a&animation=twinkling" alt="Footer CTA" />
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=python,ts,cpp,java,dart,html,css,js&perline=8" alt="Languages" />
+
+**AI/ML & Data Science**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn,pandas,numpy,anaconda,jupyter&perline=8" alt="AI/ML" />
+
+**Web & Backend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,fastapi,tailwind,docker,aws&perline=8" alt="Web/DevOps" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,postman,arduino,raspberrypi&perline=8" alt="Tools" />
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,jenkins,nginx,redis,mongodb&perline=8" alt="Cloud/DevOps" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,redis&perline=5" alt="Databases" />
+
+</div>
+
+---
+
+<div align="center">
+  
+```
+██████╗ ██████╗ ███╗   ██╗████████╗██████╗  ██████╗ ██╗     ██╗     ███████╗██████╗ 
+██╔══██╗██╔══██╗████╗  ██║╚══██╔══╝██╔══██╗██╔═══██╗██║     ██║     ██╔════╝██╔══██╗
+██████╔╝██████╔╝██╔██╗ ██║   ██║   ██████╔╝██║   ██║██║     ██║     █████╗  ██████╔╝
+██╔═══╝ ██╔══██╗██║╚██╗██║   ██║   ██╔══██╗██║   ██║██║     ██║     ██╔══╝  ██╔══██╗
+██║     ██║  ██║██║ ╚████║   ██║   ██║  ██║╚██████╔╝███████╗███████╗███████╗██║  ██║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
+```
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragadees15&theme=redical&hide_border=true&area=true&height=300&bg_color=0D1117&color=39FF14&line=FFD700&point=00BFFF" alt="Contribution Graph" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  
+![Projects](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=🚀+Featured+Projects+%7C+Showcasing+Innovation)
+
+</div>
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/Pragadees15/EduSmartBot">
+        <img src="https://img.shields.io/badge/EduSmartBot-AI_Tutor-FFD700?style=for-the-badge&logo=python&logoColor=black" width="100%"/>
+      </a>
+      <br/><br/>
+      <h3>🤖 AI-Native Study Studio</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/OCR-OpenCV-green?style=flat-square" alt="OCR" />
+        <img src="https://img.shields.io/badge/NLP-Transformers-purple?style=flat-square" alt="NLP" />
+      </p>
+      <small>📚 PDF to Q&A conversion using OCR and NLP</small><br/>
+      <small>🔗 <a href="https://github.com/Pragadees15/EduSmartBot">View Repository →</a></small>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/Pragadees15/seat-finder">
+        <img src="https://img.shields.io/badge/Seat_Finder-Scraper-00BFFF?style=for-the-badge&logo=react&logoColor=white" width="100%"/>
+      </a>
+      <br/><br/>
+      <h3>⚡ Exam Seat Scraper</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Parallel-Processing-blue?style=flat-square" alt="Parallel" />
+        <img src="https://img.shields.io/badge/Web-Scraping-orange?style=flat-square" alt="Scraping" />
+      </p>
+      <small>High-performance web scraping with parallel processing</small><br/>
+      <small>🔗 <a href="https://github.com/Pragadees15/seat-finder">View Repository →</a></small>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/Pragadees15/acadion-mobile">
+        <img src="https://img.shields.io/badge/Acadion-Mobile_App-FF4500?style=for-the-badge&logo=react&logoColor=white" width="100%"/>
+      </a>
+      <br/><br/>
+      <h3>📱 Academic Companion</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Offline-First-orange?style=flat-square" alt="Offline" />
+        <img src="https://img.shields.io/badge/Secure-Storage-green?style=flat-square" alt="Secure" />
+      </p>
+      <small>Privacy-first mobile app with secure storage</small><br/>
+      <small>🔗 <a href="https://github.com/Pragadees15/acadion-mobile">View Repository →</a></small>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 💻 More Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h4>🚀 GPU-Accelerated Fake News Detection</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/RAPIDS-GPU-blue?style=flat-square" alt="RAPIDS" />
+        <img src="https://img.shields.io/badge/ML-Classification-purple?style=flat-square" alt="ML" />
+        <img src="https://img.shields.io/badge/Benchmarking-Performance-green?style=flat-square" alt="Benchmark" />
+      </p>
+      <small>Benchmarking RAPIDS vs ensemble baselines for text classification</small>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h4>🎮 Autonomous Driving Simulation</h4>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/DQN-Reinforcement_Learning-red?style=flat-square" alt="DQN" />
+        <img src="https://img.shields.io/badge/Pygame-Game_Engine-green?style=flat-square" alt="Pygame" />
+        <img src="https://img.shields.io/badge/Deep-Q_Learning-orange?style=flat-square" alt="DQN" />
+      </p>
+      <small>Deep Q-Learning implementation with replay buffers and target networks</small>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h4>📈 Stock Price Prediction Ensemble</h4>
+      <p>
+        <img src="https://img.shields.io/badge/LSTM-Neural_Network-orange?style=flat-square" alt="LSTM" />
+        <img src="https://img.shields.io/badge/RNN-Recurrent-blue?style=flat-square" alt="RNN" />
+        <img src="https://img.shields.io/badge/Time_Series-Forecasting-green?style=flat-square" alt="Time Series" />
+        <img src="https://img.shields.io/badge/Ensemble-Models-purple?style=flat-square" alt="Ensemble" />
+      </p>
+      <small>Time-series forecasting with multiple sequence models</small>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 🔥 Current Focus
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  💻 Currently Working On:                              │
+│                                                         │
+│  🤖 AI/ML Projects    🌐 Open Source    📱 Full Stack  │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Building-AI/ML_Projects-FF6B6B?style=for-the-badge&logo=brain&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Contributing-Open_Source-4ECDC4?style=for-the-badge&logo=github&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Developing-Full_Stack-95E1D3?style=for-the-badge&logo=code&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+**Recent contributions visible in the contribution graph above! 📈**
+
+</div>
+
+---
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pragadees15&theme=git_dark&no-frame=true&margin-w=15&margin-h=15&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
+</div>
+
+---
+
+### 📊 Coding Activity
+
+<div align="center">
+
+![Coding Activity](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&width=600&lines=💻+Coding+Activity+%7C+Languages+%26+Technologies)
+
+<br/>
+
+**Languages I code in:**
+
+<div>
+  <img src="https://img.shields.io/badge/Python-AI/ML%20%7C%20Data%20Science-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-Web%20Development-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Full%20Stack-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-Backend%20Systems-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-System%20Programming-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+</div>
+
+<br/>
+
+**What I'm working on:**
+
+<div>
+  <img src="https://img.shields.io/badge/🔬-AI/ML_Research-FF6B9D?style=flat-square" />
+  <img src="https://img.shields.io/badge/🌐-Full_Stack_Apps-4ECDC4?style=flat-square" />
+  <img src="https://img.shields.io/badge/📱-Mobile_Development-95E1D3?style=flat-square" />
+  <img src="https://img.shields.io/badge/🤖-Computer_Vision-FFD93D?style=flat-square" />
+  <img src="https://img.shields.io/badge/🧠-Deep_Learning-9B59B6?style=flat-square" />
+  <img src="https://img.shields.io/badge/⚡-Performance_Optimization-FF6B6B?style=flat-square" />
+</div>
+
+<br/>
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║  📈 Stats:                                                ║
+║  • Lines of Code: ∞                                      ║
+║  • Bugs Fixed: Many                                      ║
+║  • Coffee Consumed: ☕☕☕☕☕                              ║
+║  • Projects Completed: Growing                           ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+### 🎯 Skills & Expertise
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <b>🤖 AI/ML</b><br/>
+      <small>Deep Learning, Computer Vision, NLP</small>
+    </td>
+    <td align="center" width="200">
+      <b>🌐 Full Stack</b><br/>
+      <small>React, Next.js, Node.js, FastAPI</small>
+    </td>
+    <td align="center" width="200">
+      <b>📱 Mobile</b><br/>
+      <small>React Native, Flutter</small>
+    </td>
+    <td align="center" width="200">
+      <b>☁️ Cloud</b><br/>
+      <small>AWS, GCP, Docker, Kubernetes</small>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 💡 Dev Quote
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  "The best code is not written, it's rewritten.        │
+│   The best solutions are not found,                     │
+│   they're discovered."                                  │
+│                                                         │
+│                    — Pragadeeswaran K                  │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+### 🤝 Open Source Contributions
+
+<div align="center">
+
+I actively contribute to open-source projects and maintain several repositories.
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Seat Finder</b><br/>
+      <small>Features & Documentation</small>
+    </td>
+    <td align="center">
+      <b>Raspberry Pi Security Camera</b><br/>
+      <small>IoT Project Contributions</small>
+    </td>
+    <td align="center">
+      <b>Personal Projects</b><br/>
+      <small>All Open Source on GitHub</small>
+    </td>
+  </tr>
+</table>
+
+**💡 Interested in collaborating?** Feel free to open an issue or submit a PR on any of my repositories!
+
+</div>
+
+---
+
+### 📫 Let's Connect
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://pragadeesportfolio.vercel.app/">
+        <img src="https://img.shields.io/badge/🌐-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/Pragadees15/">
+        <img src="https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:pragadees1323@gmail.com">
+        <img src="https://img.shields.io/badge/📧-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Pragadees15">
+        <img src="https://img.shields.io/badge/🐙-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div>
+  <img src="https://img.shields.io/badge/💬-Open%20to%20Collaboration-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔍-Code%20Reviews-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/💡-Technical%20Discussions-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/🚀-Mentorship-orange?style=flat-square" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&text=System%20Online%20%7C%20Ready%20to%20Innovate&fontSize=20&animation=fadeIn" width="100%"/>
+
+</div>
+
+---
+
+
+<br/>
+
+<img src="https://img.shields.io/github/followers/Pragadees15?label=Follow&style=social" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/Pragadees15?label=Stars&style=social" alt="GitHub Stars" />
+
+<br/>
+
+![Visitor Count](https://profile-counter.glitch.me/Pragadees15/count.svg)
+
 </div>
